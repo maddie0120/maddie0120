@@ -2,7 +2,7 @@
 
 # Hi there 👋, I'm Madalena!
 
-<h3>Welcome to my GitHub profile! 🎉</h3>
+### Welcome to my GitHub profile! 🎉
 
 ![Me](https://github.com/maddie0120/maddie0120/blob/main/banner.png?raw=true)
 
