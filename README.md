@@ -25,11 +25,11 @@
 
 You can see the most used languages in my repositories below:
 
-  <a href="https://github.com/maddie0120">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maddie0120&layout=compact&theme=radical" />
-  </a>
+<a href="https://github.com/maddie0120">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maddie0120&layout=compact&theme=radical" />
+</a>
 
-<br>
+<br><br>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
@@ -51,10 +51,10 @@ You can see the most used languages in my repositories below:
 Don't hesitate to reach out and get in touch!
 
 <a href="https://www.linkedin.com/in/madalenayang0120/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn" style="height:32px;" />
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn" style="height:48px;" />
 </a>
 
-<br>
+<br><br>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=maddie0120&label=Profile%20views&color=0e75b6&style=flat" alt="maddie0120" />
