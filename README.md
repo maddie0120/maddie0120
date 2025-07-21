@@ -26,7 +26,7 @@
 You can see the most used languages in my repositories below:
 
 <a href="https://github.com/maddie0120">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maddie0120&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maddie0120&layout=compact&theme=radical&cache_seconds=1800" />
 </a>
 
 <br><br>
