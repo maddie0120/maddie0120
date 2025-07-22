@@ -45,7 +45,7 @@ You can see the most used languages in my repositories below:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maddie0120&show_icons=true&theme=radical&cache_seconds=1800" alt="My GitHub stats" height="140"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maddie0120&theme=radical&cache_seconds=1800" alt="My GitHub Streak" height="140"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maddie0120&theme=radical" alt="My GitHub Streak" height="140"/>
 </div>
 
 ## 🌐 Connect with me
