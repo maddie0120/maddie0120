@@ -45,9 +45,10 @@ You can see the most used languages in my repositories below:
 
 ### 📊 GitHub Stats
 
-![Maddie's GitHub stats](https://github-readme-stats.vercel.app/api?username=maddie0120&show_icons=true&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maddie0120&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maddie0120&show_icons=true&theme=radical" alt="Maddie's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maddie0120&theme=radical" alt="GitHub Streak" />
+</div>
 
 ## 🌐 Connect with me
 
