@@ -54,7 +54,7 @@ Don't hesitate to reach out and get in touch!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/madalenayang0120/)
 
-<br><br>
+<br>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=maddie0120&label=Profile%20views&color=0e75b6&style=flat" alt="maddie0120" />
