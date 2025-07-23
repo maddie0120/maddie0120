@@ -52,9 +52,7 @@ You can see the most used languages in my repositories below:
 
 Don't hesitate to reach out and get in touch!
 
-<a href="https://www.linkedin.com/in/madalenayang0120/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn" height="32" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/madalenayang0120/)
 
 <br><br>
 
