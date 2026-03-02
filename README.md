@@ -17,37 +17,17 @@
 
 </div>
 
----
-
-### 💻 Technologies & Languages
-
-You can see the most used languages in my repositories below:
-
-<a href="https://github.com/maddie0120">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maddie0120&layout=compact&theme=radical&cache_seconds=1800" />
-</a>
-
 <br>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-<img src="https://github.com/maddie0120/ist-leic-a/blob/main/images/swi-prolog-logo.png" alt="SWI-Prolog" width="40" height="40"/>
-<img src="https://cdn.simpleicons.org/riscv/283272" alt="RISC-V" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+## 💻 Tech Stack & Tools
+
+The following are programming languages, frameworks, and tools I have hands-on experience with.
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=astro,bash,c,cs,cpp,docker,express,figma,git,github,gitlab,html,java,js,latex,linux,md,maven,nextjs,nodejs,p5js,pnpm,postgres,powershell,py,r,react,spring,sklearn,tailwind,ts,vim,vite,vue,vscode,windows,yarn&perline=13" />
+</p>
 
 <br>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maddie0120&show_icons=true&theme=radical&cache_seconds=1800" alt="My GitHub stats" height="140"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maddie0120&theme=radical" alt="My GitHub Streak" height="140"/>
-</div>
 
 ## 🌐 Connect with me
 
