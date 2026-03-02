@@ -29,6 +29,10 @@ The following are programming languages, frameworks, and tools I have hands-on e
 
 <br>
 
+<p align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=maddie0120&profile=false&graph=false" alt="GitHub Insights" />
+</p>
+
 ## 🌐 Connect with me
 
 Don't hesitate to reach out and get in touch!
